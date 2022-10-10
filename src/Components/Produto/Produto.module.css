@@ -1,0 +1,24 @@
+.Container{
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px #413a3a74;
+    padding: 30px;
+    margin: 20px;
+    width: 250px;
+    background-color: #fff;
+    display: inline-block;
+}
+
+.Image{
+border-radius: 5px;
+}
+
+.Nome{
+    font-style: italic;
+    color: black;
+}
+
+.Preco{
+    color: black;
+    margin: auto;
+    font-size: large;
+}
